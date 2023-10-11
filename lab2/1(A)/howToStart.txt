@@ -1,0 +1,4 @@
+gcc father.c -o father
+gcc son.c -o son
+
+./father
